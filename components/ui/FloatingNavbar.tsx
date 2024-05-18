@@ -97,7 +97,7 @@ export const FloatingNav = ({
         {/* remove this login btn */}
         <button className="border text-sm font-medium relative border-neutral-200 dark:border-white/[0.2] text-black dark:text-white px-4 py-2 rounded-full">
           <a
-            href="https://drive.google.com/file/d/1TJoRYdwE5mwnr4s1xqyrfGSy6t_Sf_B3/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1BFIoDM0KkrXTMNsriu0Kd9UpYiLM7XVJ/view?usp=drive_link"
             target="_blank"
             onClick={() => {
               ReactGa.event({
